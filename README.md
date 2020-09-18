@@ -9,6 +9,18 @@
 
 ## About
 
+Short description about library
+
+### Demo
+
+**[Live – check website](#)**
+**[Playground – play with library in Storybook](#)**
+
+### Similar Projects / Alternatives / Idea
+
+- [example](#) by [John Doe](#)
+- [example-2](#) by [Jane Doe](#)
+
 ## How to Install
 
 First, install the library in your project by npm:
