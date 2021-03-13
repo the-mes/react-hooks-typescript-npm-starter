@@ -1,3 +1,4 @@
+// todo add more options commented out
 module.exports = {
   parser: '@typescript-eslint/parser',
   extends: [

@@ -1,7 +1,7 @@
 # [react-hooks-npm](https://github.com/the-mes/react-hooks-npm)
 
-[![NPM version](http://img.shields.io/npm/v/react-hooks-npm?style=flat-square)](https://www.npmjs.com/package/react-hooks-npm)
-[![NPM downloads](http://img.shields.io/npm/dm/react-hooks-npm?style=flat-square)](https://www.npmjs.com/package/react-hooks-npm)
+[![NPM version](https://img.shields.io/npm/v/react-hooks-npm?style=flat-square)](https://www.npmjs.com/package/react-hooks-npm)
+[![NPM downloads](https://img.shields.io/npm/dm/react-hooks-npm?style=flat-square)](https://www.npmjs.com/package/react-hooks-npm)
 [![NPM license](https://img.shields.io/npm/l/react-hooks-npm?style=flat-square)](https://www.npmjs.com/package/react-hooks-npm)
 [![Codecov](https://img.shields.io/codecov/c/github/the-mes/react-hooks-npm?style=flat-square)](https://codecov.io/gh/the-mes/react-hooks-npm)
 [![Travis](https://img.shields.io/travis/the-mes/react-hooks-npm/master?style=flat-square)](https://travis-ci.org/the-mes/react-hooks-npm)
@@ -48,9 +48,11 @@ import { useMyHook } from 'react-hooks-npm';
 #### Example
 
 ```js
+const { sum } = useMyHook();
 
+const result = sum(2, 3); // 5
 ```
 
 ## License
 
-This project is licensed under the MIT License © 2020-present Jakub Biesiada
+This project is licensed under the MIT License © 2021-present Jakub Biesiada
