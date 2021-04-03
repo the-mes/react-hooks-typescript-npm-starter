@@ -13,7 +13,7 @@ Short description about library
 
 ### Demo
 
-**[Live – check website](#)**
+**[Live – check website](#)**<br/>
 **[Playground – play with library in Storybook](#)**
 
 ### Similar Projects / Alternatives / Idea
