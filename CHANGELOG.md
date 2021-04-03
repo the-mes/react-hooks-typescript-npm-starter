@@ -1,1 +1,1 @@
-# react-hooks-npm Changelog
+# react-hooks-typescript-npm-starter Changelog
