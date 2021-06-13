@@ -45,7 +45,9 @@ import { useMyHook } from 'react-hooks-typescript-npm-starter';
 
 #### Returned Values
 
-#### Example
+<!-- TODO -->
+
+## Example
 
 ```js
 const { sum } = useMyHook();
