@@ -26,13 +26,13 @@ Short description about library
 First, install the library in your project by npm:
 
 ```sh
-$ npm install react-hooks-typescript-npm-starter
+npm install react-hooks-typescript-npm-starter
 ```
 
 Or Yarn:
 
 ```sh
-$ yarn add react-hooks-typescript-npm-starter
+yarn add react-hooks-typescript-npm-starter
 ```
 
 ## Getting Started
