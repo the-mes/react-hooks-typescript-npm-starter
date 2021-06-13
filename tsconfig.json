@@ -1,16 +1,7 @@
-// todo extend recommended base
-// todo add more options commented out
 {
+  "extends": "@tsconfig/create-react-app/tsconfig.json",
   "compilerOptions": {
-    "target": "ES5",
-    "module": "ESNext",
-    "checkJs": false,
-    "declaration": true,
-    "jsx": "react",
-    "outDir": "lib",
-    "strict": true,
-    "moduleResolution": "Node",
-    "esModuleInterop": true
+    "declaration": true
   },
   "include": ["src"]
 }
